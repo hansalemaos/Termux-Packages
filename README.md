@@ -156,7 +156,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.38.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.39.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17 | User information lookup program | http://ftp.linux.org.uk/pub/linux/Networking/netkit/ |
@@ -382,10 +382,10 @@
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.20.1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 3.1.60 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 3.1.60 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 3.1.60 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 3.1.60 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 3.1.61 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 3.1.61 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 3.1.61 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 3.1.61 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-4 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.0 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.8.0 | Static libraries for enchant | https://abiword.github.io/enchant/ |
@@ -1800,9 +1800,9 @@
 | **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2312-1 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 0.1 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
-| **openjdk-17** | 17.0-31 | Java development kit and runtime | https://github.com/openjdk/mobile |
-| **openjdk-17-source** | 17.0-31 | Source files for openjdk-17 | https://github.com/openjdk/mobile |
-| **openjdk-17-x** | 17.0-31 | Portion of openjdk-17 requiring X11 functionality | https://github.com/openjdk/mobile |
+| **openjdk-17** | 17.0-32 | Java development kit and runtime | https://github.com/openjdk/mobile |
+| **openjdk-17-source** | 17.0-32 | Source files for openjdk-17 | https://github.com/openjdk/mobile |
+| **openjdk-17-x** | 17.0-32 | Portion of openjdk-17 requiring X11 functionality | https://github.com/openjdk/mobile |
 | **openjpeg** | 2.5.2 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.2 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
 | **openldap** | 2.6.8 | OpenLDAP server | https://openldap.org |
