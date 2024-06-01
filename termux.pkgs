@@ -263,7 +263,7 @@
 | **crawl** | 0.31.0 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
 | **croc** | 1:10.0.7 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
-| **crowbook** | 0.16.1-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
+| **crowbook** | 0.16.1-2 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
 | **crypto-monitor** | 2021.02.22-3 | Real-time crypto currency monitor | https://github.com/edghyhdz/crypto_monitor |
 | **cryptopp** | 8.9.0 | A free C++ class library of cryptographic schemes | https://www.cryptopp.com/ |
@@ -572,7 +572,7 @@
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.80.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
-| **gojq** | 0.12.15 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
+| **gojq** | 0.12.16 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.22.3 | Go programming language compiler | https://golang.org/ |
 | **golang-doc** | 3:1.22.3 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
@@ -1529,7 +1529,7 @@
 | **lnav** | 0.11.2-1 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-0 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.05.26 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
-| **logrotate** | 3.21.0 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
+| **logrotate** | 3.22.0 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.5 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
 | **lowdown** | 1.1.0 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 1.1.0 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
@@ -1599,7 +1599,7 @@
 | **mdbook-open-on-gh** | 2.4.3 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
 | **mdbook-pikchr** | 0.1.7 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
 | **mdbook-plantuml** | 0.8.0 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
-| **mdbook-presentation-preprocessor** | 0.3.1 | A preprocessor for utilizing an MDBook as slides for a presentation | https://github.com/FreeMasen/mdbook-presentation-preprocessor |
+| **mdbook-presentation-preprocessor** | 0.3.1-1 | A preprocessor for utilizing an MDBook as slides for a presentation | https://github.com/FreeMasen/mdbook-presentation-preprocessor |
 | **mdbook-svgbob** | 0.2.1 | SvgBob mdbook preprocessor which swaps code-blocks with neat SVG | https://github.com/boozook/mdbook-svgbob |
 | **mdbook-svgbob2** | 0.3.0 | Alternative mdbook preprocessor for svgbob | https://github.com/matthiasbeyer/mdbook-svgbob2 |
 | **mdbook-tera** | 0.5.1 | Tera preprocessor for mdBook | https://github.com/avitex/mdbook-tera |
@@ -1757,7 +1757,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.100 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 4.0.1 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.94.0 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.94.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
@@ -1771,7 +1771,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.0.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.1.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1933,7 +1933,7 @@
 | **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.14.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
-| **proj** | 9.4.0 | Generic coordinate transformation software | https://proj.org |
+| **proj** | 9.4.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-64 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.13.0-1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:25.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
