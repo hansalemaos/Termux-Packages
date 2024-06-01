@@ -26,7 +26,7 @@
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.17.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.18.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-11 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -600,7 +600,7 @@
 | **gpgv** | 2.4.5-1 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.16.1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.7 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.8 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 8.5.27-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.43 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -1591,7 +1591,7 @@
 | **mbedtls** | 3.6.0 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
 | **mbedtls-static** | 3.6.0 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.31-1 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
-| **mcfly** | 0.8.6 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
+| **mcfly** | 0.9.0 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.40 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
@@ -1616,7 +1616,7 @@
 | **mediainfo** | 24.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.7.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
-| **memcached** | 1.6.27 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.28 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 24.0.8 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -1910,8 +1910,8 @@
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
 | **pocketbase** | 0.22.12 | An open source Go backend | https://github.com/pocketbase/pocketbase |
-| **poke** | 4.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
-| **poke-static** | 4.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
+| **poke** | 4.1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
+| **poke-static** | 4.1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
 | **polyml** | 5.9.1 | A Standard ML implementation | https://www.polyml.org/ |
 | **polyml-static** | 5.9.1 | Static libraries for polyml | https://www.polyml.org/ |
