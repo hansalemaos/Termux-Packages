@@ -1,0 +1,5 @@
+```mathematica
+564K └─┬ main
+280K   ├── termux.pkgs
+280K   └── README.md
+```
