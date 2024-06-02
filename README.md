@@ -179,7 +179,7 @@
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.24-2 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.8.1 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
+| **caddy** | 2.8.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.15.0.7 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
@@ -772,7 +772,7 @@
 | **krb5** | 1.21.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.3.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.30.1 | Kubernetes.io client binary | https://kubernetes.io/ |
-| **kubelogin** | 1.28.0-1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubelogin** | 1.28.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.5.0 | LastPass command line interface tool | https://lastpass.com/ |
