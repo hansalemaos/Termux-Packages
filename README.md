@@ -1094,8 +1094,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1716656478 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1716656478 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1716656478-1 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1716656478-1 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.6.1+really5.4.5 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
 | **liblzma-static** | 5.6.1+really5.4.5 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
@@ -1552,7 +1552,7 @@
 | **lua52** | 5.2.4-8 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1716656478 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1716656478-1 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
@@ -1743,8 +1743,8 @@
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
 | **nlopt** | 2.7.1-1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
-| **nmap** | 7.94 | Utility for network discovery and security auditing | https://nmap.org/ |
-| **nmap-ncat** | 7.94 | Feature-packed networking utility which reads and writes data across networks from the command line | https://nmap.org/ |
+| **nmap** | 7.95 | Utility for network discovery and security auditing | https://nmap.org/ |
+| **nmap-ncat** | 7.95 | Feature-packed networking utility which reads and writes data across networks from the command line | https://nmap.org/ |
 | **nmh** | 1.8 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |
 | **nmon** | 16q | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 4.9 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
@@ -1866,7 +1866,7 @@
 | **pdf2djvu** | 0.9.19-5 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.8.0 | A PDF processor written in Go | https://pdfcpu.io |
-| **pdfgrep** | 2.2.0-1 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
+| **pdfgrep** | 2.2.0-2 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-5 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
@@ -2195,7 +2195,7 @@
 | **soju** | 0.8.0 | A user-friendly IRC bouncer | https://git.sr.ht/~emersion/soju |
 | **solidity** | 0.8.26 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
 | **sops** | 3.8.1 | Simple and flexible tool for managing secrets | https://github.com/mozilla/sops |
-| **sord** | 0.16.16 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
+| **sord** | 0.16.16-1 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-25 | Command line utility for converting between and applying effects to various audio files formats | http://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-25 | Static libraries for sox | http://sox.sourceforge.net/ |
 | **spark** | 1.0.1 | ▁▂▃▅▂▇ in your shell. | https://github.com/holman/spark |
@@ -2425,7 +2425,7 @@
 | **util-linux-static** | 2.39.3-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uwsgi** | 2.0.26 | uWSGI application server container | https://projects.unbit.it/uwsgi |
+| **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.16.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
