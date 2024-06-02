@@ -179,7 +179,7 @@
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.24-2 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.8.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
+| **caddy** | 2.8.4 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.15.0.7 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
@@ -534,7 +534,7 @@
 | **gitea** | 1.22.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.36.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
-| **gitui** | 0.26.2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
+| **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.41.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **glib** | 2.80.2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
@@ -672,7 +672,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.126.2 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.126.3 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
