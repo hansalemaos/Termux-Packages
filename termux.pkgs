@@ -1008,8 +1008,8 @@
 | **libgxps** | 0.3.2-2 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
 | **libhangul** | 0.1.0-p20230415-0 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
 | **libhangul-static** | 0.1.0-p20230415-0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
-| **libhdf5** | 1.14.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
-| **libhdf5-static** | 1.14.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
+| **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
+| **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
 | **libheif** | 1.17.6 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
 | **libheif-progs** | 1.17.6 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
@@ -1269,7 +1269,7 @@
 | **librtmidi** | 5.0.0-2 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-1 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-1 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
-| **libsamplerate** | 0.2.2 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
+| **libsamplerate** | 0.2.2-1 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-1 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-1 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
 | **libsass** | 3.6.6 | Sass compiler written in C++ | https://github.com/sass/libsass |
@@ -1308,7 +1308,7 @@
 | **libsoundtouch-static** | 2.3.2 | Static libraries for libsoundtouch | https://www.surina.net/soundtouch/ |
 | **libsoup** | 2.74.3-2 | HTTP client and server library | https://wiki.gnome.org/action/show/Projects/libsoup |
 | **libsoup3** | 3.4.4 | HTTP client and server library | https://wiki.gnome.org/Projects/libsoup |
-| **libsoxr** | 0.1.3-5 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
+| **libsoxr** | 0.1.3-6 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
 | **libspatialindex** | 1.9.3 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
@@ -1413,8 +1413,8 @@
 | **libvmaf-static** | 3.0.0 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
 | **libvo-amrwbenc** | 0.1.3 | VisualOn AMR-WB encoder library | https://sourceforge.net/projects/opencore-amr |
 | **libvo-amrwbenc-static** | 0.1.3 | Static libraries for libvo-amrwbenc | https://sourceforge.net/projects/opencore-amr |
-| **libvorbis** | 1.3.7-1 | Library for using the Ogg Vorbis compressed audio format | https://xiph.org/vorbis/ |
-| **libvorbis-static** | 1.3.7-1 | Static libraries for libvorbis | https://xiph.org/vorbis/ |
+| **libvorbis** | 1.3.7-2 | Library for using the Ogg Vorbis compressed audio format | https://xiph.org/vorbis/ |
+| **libvorbis-static** | 1.3.7-2 | Static libraries for libvorbis | https://xiph.org/vorbis/ |
 | **libvpx** | 1:1.14.1 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
 | **libvpx-static** | 1:1.14.1 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.3 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
