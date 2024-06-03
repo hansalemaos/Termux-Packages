@@ -1635,8 +1635,8 @@
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.7 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.2.7 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
-| **minizinc** | 2.8.4 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
-| **minizinc-static** | 2.8.4 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
+| **minizinc** | 2.8.5 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
+| **minizinc-static** | 2.8.5 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-2 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -1689,7 +1689,7 @@
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
-| **nala** | 0.15.2 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
+| **nala** | 0.15.3 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 8.0 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
@@ -1905,7 +1905,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.22.12 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.22.13 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2106,7 +2106,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.78.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240527 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240603 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.78.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.78.0-1 | Rust source code files | https://www.rust-lang.org/ |
