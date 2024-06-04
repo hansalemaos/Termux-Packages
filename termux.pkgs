@@ -790,7 +790,7 @@
 | **lf** | 32 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-6 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-6 | Static libraries for lftp | https://lftp.tech/ |
-| **lgogdownloader** | 3.13 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
+| **lgogdownloader** | 3.14 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.4.0 | LHA compressor/decompressor | https://fragglet.github.io/lhasa/ |
 | **lhasa-static** | 0.4.0 | Static libraries for lhasa | https://fragglet.github.io/lhasa/ |
 | **liba52** | 0.8.0-1 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
@@ -853,7 +853,7 @@
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-6 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 26b | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.24.8 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.24.9 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
