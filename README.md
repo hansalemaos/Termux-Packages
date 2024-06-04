@@ -2273,7 +2273,7 @@
 | **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.8.2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.27.7 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.27.8 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.4.0-1 | Technical analysis library with indicators like ADX. | https://sourceforge.net/projects/ta-lib/ |
 | **ta-lib-static** | 0.4.0-1 | Static libraries for ta-lib | https://sourceforge.net/projects/ta-lib/ |
@@ -2468,7 +2468,7 @@
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.285 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.285 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.285 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.3.286 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.285 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
