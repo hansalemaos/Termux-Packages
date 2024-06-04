@@ -1251,8 +1251,8 @@
 | **libraqm** | 0.10.1 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
 | **librasqal** | 0.9.33-2 | RDF Query Library | https://librdf.org/rasqal/ |
 | **librasqal-static** | 0.9.33-2 | Static libraries for librasqal | https://librdf.org/rasqal/ |
-| **librav1e** | 0.7.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
-| **librav1e-static** | 0.7.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
+| **librav1e** | 0.7.1-1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **librav1e-static** | 0.7.1-1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libre2** | 2024.03.01-1 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
@@ -2035,7 +2035,7 @@
 | **ranger** | 1.9.3-6 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-4 | fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-2 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
-| **rav1e** | 0.7.1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **rav1e** | 0.7.1-1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.10.2 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
