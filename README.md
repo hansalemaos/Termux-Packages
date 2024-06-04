@@ -922,7 +922,7 @@
 | **libdispatch** | 1:5.10 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
-| **libdrm** | 2.4.120 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
+| **libdrm** | 2.4.121 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
 | **libduckdb** | 1.0.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
 | **libduckdb-static** | 1.0.0 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
