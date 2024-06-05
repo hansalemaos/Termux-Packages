@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📦 Termux Packages 📦</title>
     <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script>
+    <title>📦 Termux Packages 📦</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,6 +45,5 @@
         }
     </style>
 </head>
-<title>📦 Termux Packages 📦</title>  
 <body>
 <noscript>
