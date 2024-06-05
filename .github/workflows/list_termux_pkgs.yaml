@@ -141,7 +141,8 @@ jobs:
             printf "}\n"
           }' "$GITHUB_WORKSPACE/main/README.md" > "$SYSTMP/temp.json"
           #Validate
-          jq -c 'select(has("Package") and (.Package | test("[[:alnum:]]")) and .Package != "")' "$SYSTMP/temp.json" | jq -s '.' > "$GITHUB_WORKSPACE/main/pkgs.json"
+          jq -c 'select(has("Package") and (.Package | test("[[:alnum:]]")) and .Package != "")' "$SYSTMP/temp.json" | jq -s '.' > "$SYSTMP/tempd.json"
+          jq '[.[] | select(.Package != "Package" and .Version != "Version")] | sort_by(.Package)' "$SYSTMP/tempd.json" > "$GITHUB_WORKSPACE/main/pkgs.json"
           #Convert to YAML
           cat "$GITHUB_WORKSPACE/main/pkgs.json" | yj -jy | tee "$GITHUB_WORKSPACE/main/pkgs.yaml"
         continue-on-error: false
