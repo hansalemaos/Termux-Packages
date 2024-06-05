@@ -78,6 +78,18 @@ jobs:
           echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
         continue-on-error: false
 
+      - name: Update index.html
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #https://github.com/oscarmorrison/md-page
+          echo '<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>' > "$GITHUB_WORKSPACE/main/index.html"
+          echo "" >> "$GITHUB_WORKSPACE/main/index.html"
+          cat "$GITHUB_WORKSPACE/main/README.md" >> "$GITHUB_WORKSPACE/main/index.html"
+          echo "" >> "$GITHUB_WORKSPACE/main/index.html"
+        continue-on-error: true
+
       - name: Generate JSON
         run: |
           #Presets
