@@ -3025,13 +3025,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.14.3",
+    "Version": "1.14.4",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.14.3",
+    "Version": "1.14.4",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -4027,7 +4027,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.126.3",
+    "Version": "0.127.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
