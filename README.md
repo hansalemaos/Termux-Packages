@@ -1116,8 +1116,8 @@
 | **libmd** | 1.1.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.1.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
 | **libmdbx** | 0.12.7 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
-| **libmediainfo** | 24.05 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **libmediainfo-static** | 24.05 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo** | 24.05-1 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo-static** | 24.05-1 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-4 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-2 | A thread-safe hash library which provides a uniform interface to hash algorithms | http://mhash.sourceforge.net/ |
@@ -1613,7 +1613,7 @@
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
-| **mediainfo** | 24.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **mediainfo** | 24.05-1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.7.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.28 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
