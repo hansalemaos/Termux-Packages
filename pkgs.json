@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "ceu-lang",
-    "Version": "2019.07.17",
+    "Version": "2019.07.17-1",
     "Description": "The Structured Synchronous Reactive Programming Language Céu",
     "Homepage": "https://github.com/ceu-lang/ceu"
   },
@@ -9282,6 +9282,12 @@
     "Homepage": "https://www.lua.org"
   },
   {
+    "Package": "lua51-lpeg",
+    "Version": "1.1.0-1",
+    "Description": "Pattern-matching library for Lua 5.1",
+    "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
+  },
+  {
     "Package": "lua52",
     "Version": "5.2.4-8",
     "Description": "Simple, extensible, embeddable programming language",
@@ -9292,6 +9298,12 @@
     "Version": "5.3.6",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
+  },
+  {
+    "Package": "lua53-lpeg",
+    "Version": "1.1.0-1",
+    "Description": "Pattern-matching library for Lua 5.3",
+    "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
     "Package": "lua54",
@@ -14695,7 +14707,7 @@
   },
   {
     "Package": "vis",
-    "Version": "0.9",
+    "Version": "0.9-1",
     "Description": "Modern, legacy free, simple yet efficient vim-like editor",
     "Homepage": "https://www.brain-dump.org/projects/vis/"
   },
