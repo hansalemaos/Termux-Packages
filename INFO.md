@@ -1,5 +1,5 @@
 - #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/termux/termux-packages)
-> The [Markdown README](https://github.com/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.**
+> The [Markdown README](https://github.com/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
 > - View [RAW](https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
 > - View [JSON](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
 > - View [YAML](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
