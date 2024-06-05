@@ -1,11 +1,5 @@
 [
   {
-    "Package": "Package",
-    "Version": "Version",
-    "Description": "Description",
-    "Homepage": "Homepage"
-  },
-  {
     "Package": "0verkill",
     "Version": "0.16-git-3",
     "Description": "Bloody 2D action deathmatch-like game in ASCII-ART",
