@@ -1165,7 +1165,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.9.1",
+    "Version": "4.10",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "Package": "re2c",
-    "Version": "3.1",
+    "Version": "3.1-1",
     "Description": "Lexer generator for C, C++ and Go.",
     "Homepage": "https://re2c.org/"
   },
@@ -13585,37 +13585,37 @@
   },
   {
     "Package": "swift-runtime-aarch64",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift runtime libraries for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-arm",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift runtime libraries for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-x86-64",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift runtime libraries for Android x86_64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-aarch64",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift SDK for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-arm",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift SDK for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-x86-64",
-    "Version": "5.10-2",
+    "Version": "5.10.1",
     "Description": "Swift SDK for Android x86_64",
     "Homepage": "https://swift.org/"
   },

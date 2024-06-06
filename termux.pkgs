@@ -192,7 +192,7 @@
 | **cboard** | 0.7.5-4 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
 | **cbonsai** | 1.3.1-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | **cc65** | 2.19 | A free compiler for 6502 based system. | https://cc65.github.io/ |
-| **ccache** | 4.9.1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
+| **ccache** | 4.10 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-4 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20240202 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
@@ -2051,7 +2051,7 @@
 | **rdiff-backup** | 2.2.6-1 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.1 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
-| **re2c** | 3.1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
+| **re2c** | 3.1-1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.2.10 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.2.10 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
@@ -2262,12 +2262,12 @@
 | **svt-av1** | 2.1.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.7 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift-runtime-aarch64** | 5.10-2 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 5.10-2 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 5.10-2 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 5.10-2 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 5.10-2 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 5.10-2 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift-runtime-aarch64** | 5.10.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 5.10.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 5.10.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 5.10.1 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 5.10.1 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 5.10.1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2024.05.08 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
