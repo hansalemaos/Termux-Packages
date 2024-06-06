@@ -1051,7 +1051,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.0.7
+  Version: 1:10.0.8
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1883,7 +1883,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.52.1
+  Version: 0.53.0
   Description: Command-line fuzzy finder
   Homepage: https://github.com/junegunn/fzf
 - Package: fzy
@@ -2011,11 +2011,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -3511,11 +3511,11 @@
   Description: Static libraries for libcloog
   Homepage: http://www.bastoul.net/cloog/index.php
 - Package: libcoap
-  Version: 4.3.4a
+  Version: 4.3.5-rc1-0
   Description: Implementation of CoAP, a lightweight protocol for resource constrained devices
   Homepage: https://libcoap.net/
 - Package: libcoap-static
-  Version: 4.3.4a
+  Version: 4.3.5-rc1-0
   Description: Static libraries for libcoap
   Homepage: https://libcoap.net/
 - Package: libcoinor-cgl
@@ -6535,7 +6535,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.06.04.19.20.08
+  Version: 2024.06.06.09.36.42
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7103,7 +7103,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.2.2
+  Version: 21.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9283,7 +9283,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.3.4-1
+  Version: 5.4.0
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
@@ -9823,11 +9823,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.20-5
+  Version: 3.0.21
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.20-5
+  Version: 3.0.21
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
