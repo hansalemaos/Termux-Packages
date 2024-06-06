@@ -1603,7 +1603,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.16
+  Version: 0.18.17
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -3911,7 +3911,7 @@
   Description: Static libraries for libgee
   Homepage: https://wiki.gnome.org/Projects/Libgee
 - Package: libgeos
-  Version: 3.12.1
+  Version: 3.12.2
   Description: Geometry Engine, C++ port of the Java Topology Suite
   Homepage: https://geos.osgeo.org/
 - Package: libgeotiff
@@ -9659,7 +9659,7 @@
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
-  Version: 0.19.1
+  Version: 0.19.2
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
