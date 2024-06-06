@@ -883,7 +883,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -2999,7 +2999,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.27.0
+  Version: 1.28.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3547,7 +3547,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4279,11 +4279,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -4923,7 +4923,7 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.9.2-1
+  Version: 0.9.3
   Description: Shared library for the Pluto interpreter.
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -4947,7 +4947,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6079,11 +6079,11 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/apple/swift-llbuild
 - Package: lld
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6103,11 +6103,11 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://www.mingw-w64.org/
 - Package: llvm-tools
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6579,7 +6579,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 18.1.6
+  Version: 18.1.6-1
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -7623,7 +7623,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.9.2-1
+  Version: 0.9.3
   Description: A superset of Lua 5.4, with unique features, optimizations, and improvements
   Homepage: https://plutolang.github.io/
 - Package: plzip

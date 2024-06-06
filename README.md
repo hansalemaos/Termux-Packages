@@ -231,7 +231,7 @@
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.3.1 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.3.1 | Static libraries for clamav | https://www.clamav.net/ |
-| **clang** | 18.1.6 | C language frontend for LLVM | https://clang.llvm.org/ |
+| **clang** | 18.1.6-1 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.2 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
@@ -760,7 +760,7 @@
 | **jsoncpp-static** | 1.9.5-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.27.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.28.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.4-1 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -897,7 +897,7 @@
 | **libcoinor-utils** | 1:2.11.11 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
 | **libcommons-lang3-java** | 3.14.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
-| **libcompiler-rt** | 18.1.6 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
+| **libcompiler-rt** | 18.1.6-1 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.7.3-3 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.7.3-3 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
@@ -1080,8 +1080,8 @@
 | **liblightning-static** | 2.2.0 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
 | **libliquid-dsp** | 1.6.0 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
 | **libliquid-dsp-static** | 1.6.0 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
-| **libllvm** | 18.1.6 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
-| **libllvm-static** | 18.1.6 | Static libraries for libllvm | https://clang.llvm.org/ |
+| **libllvm** | 18.1.6-1 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
+| **libllvm-static** | 18.1.6-1 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.33 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.33 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.32 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
@@ -1241,13 +1241,13 @@
 | **libplacebo** | 6.338.2 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.6.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.6.0 | Static libraries for libplist | https://libimobiledevice.org |
-| **libpluto** | 0.9.2-1 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
+| **libpluto** | 0.9.3 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
 | **libpng** | 1.6.43 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.43 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.13.3-1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
-| **libpolly** | 18.1.6 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
+| **libpolly** | 18.1.6-1 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:25.1-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
@@ -1530,14 +1530,14 @@
 | **littlecms-static** | 2.16 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.16 | Color management utilities | http://www.littlecms.com/ |
 | **llbuild** | 5.10 | A low-level build system, used by the Swift Package Manager | https://github.com/apple/swift-llbuild |
-| **lld** | 18.1.6 | LLVM-based linker | https://clang.llvm.org/ |
-| **llvm** | 18.1.6 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
+| **lld** | 18.1.6-1 | LLVM-based linker | https://clang.llvm.org/ |
+| **llvm** | 18.1.6-1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
 | **llvm-mingw-w64** | 20240417 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-libcompiler-rt** | 20240417 | Compiler runtime libraries for LLVM-MinGW | https://www.llvm.org/ |
 | **llvm-mingw-w64-tools** | 11.0.0 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-ucrt** | 20240417 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
-| **llvm-tools** | 18.1.6 | LLVM Development Tools | https://clang.llvm.org/ |
-| **llvmgold** | 18.1.6 | LLVM gold plugin | https://clang.llvm.org/ |
+| **llvm-tools** | 18.1.6-1 | LLVM Development Tools | https://clang.llvm.org/ |
+| **llvmgold** | 18.1.6-1 | LLVM gold plugin | https://clang.llvm.org/ |
 | **lnav** | 0.11.2-1 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-0 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.05.26 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
@@ -1655,7 +1655,7 @@
 | **mkp224o** | 1.7.0 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-2 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
-| **mlir** | 18.1.6 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
+| **mlir** | 18.1.6-1 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.31.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
@@ -1916,7 +1916,7 @@
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2024.5 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
-| **plutolang** | 0.9.2-1 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
+| **plutolang** | 0.9.3 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |

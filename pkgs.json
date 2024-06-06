@@ -1327,7 +1327,7 @@
   },
   {
     "Package": "clang",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.27.0",
+    "Version": "1.28.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -5323,7 +5323,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6421,13 +6421,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7387,7 +7387,7 @@
   },
   {
     "Package": "libpluto",
-    "Version": "0.9.2-1",
+    "Version": "0.9.3",
     "Description": "Shared library for the Pluto interpreter.",
     "Homepage": "https://plutolang.github.io/"
   },
@@ -7423,7 +7423,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9121,13 +9121,13 @@
   },
   {
     "Package": "lld",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9157,13 +9157,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9871,7 +9871,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "18.1.6",
+    "Version": "18.1.6-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -11437,7 +11437,7 @@
   },
   {
     "Package": "plutolang",
-    "Version": "0.9.2-1",
+    "Version": "0.9.3",
     "Description": "A superset of Lua 5.4, with unique features, optimizations, and improvements",
     "Homepage": "https://plutolang.github.io/"
   },
