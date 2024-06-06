@@ -1937,7 +1937,7 @@
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.4.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 4.13.0-1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 4.14.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:25.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **protobuf-dev** | 2:25.1-1 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
 | **protobuf-static** | 25.1-1 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
@@ -2273,8 +2273,8 @@
 | **swtpm-static** | 0.8.2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 1.27.8 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
-| **ta-lib** | 0.4.0-1 | Technical analysis library with indicators like ADX. | https://sourceforge.net/projects/ta-lib/ |
-| **ta-lib-static** | 0.4.0-1 | Static libraries for ta-lib | https://sourceforge.net/projects/ta-lib/ |
+| **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
+| **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
 | **taglib** | 1.13.1 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.9.1 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |

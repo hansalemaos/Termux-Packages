@@ -11635,7 +11635,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.13.0-1",
+    "Version": "4.14.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -13651,15 +13651,15 @@
   },
   {
     "Package": "ta-lib",
-    "Version": "0.4.0-1",
-    "Description": "Technical analysis library with indicators like ADX.",
-    "Homepage": "https://sourceforge.net/projects/ta-lib/"
+    "Version": "0.5.0",
+    "Description": "Technical analysis library with indicators like ADX",
+    "Homepage": "https://ta-lib.org/"
   },
   {
     "Package": "ta-lib-static",
-    "Version": "0.4.0-1",
+    "Version": "0.5.0",
     "Description": "Static libraries for ta-lib",
-    "Homepage": "https://sourceforge.net/projects/ta-lib/"
+    "Homepage": "https://ta-lib.org/"
   },
   {
     "Package": "taglib",
