@@ -2383,7 +2383,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.85",
+    "Version": "12.86",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -7867,7 +7867,7 @@
   },
   {
     "Package": "libspatialindex",
-    "Version": "1.9.3",
+    "Version": "2.0.0",
     "Description": "C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API",
     "Homepage": "https://libspatialindex.github.io"
   },
@@ -11161,19 +11161,19 @@
   },
   {
     "Package": "pcre2",
-    "Version": "10.43",
+    "Version": "10.44",
     "Description": "Perl 5 compatible regular expression library",
     "Homepage": "https://www.pcre.org"
   },
   {
     "Package": "pcre2-static",
-    "Version": "10.43",
+    "Version": "10.44",
     "Description": "Static libraries for pcre2",
     "Homepage": "https://www.pcre.org"
   },
   {
     "Package": "pcre2grep",
-    "Version": "10.43",
+    "Version": "10.44",
     "Description": "A grep with Perl-compatible regular expressions",
     "Homepage": "https://www.pcre.org"
   },
@@ -13051,7 +13051,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.0",
+    "Version": "1.9.1",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -14815,7 +14815,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.3.286",
+    "Version": "1.3.287",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

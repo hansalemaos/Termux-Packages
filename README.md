@@ -407,7 +407,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.4.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.85 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.86 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -1321,7 +1321,7 @@
 | **libsoup** | 2.74.3-2 | HTTP client and server library | https://wiki.gnome.org/action/show/Projects/libsoup |
 | **libsoup3** | 3.4.4 | HTTP client and server library | https://wiki.gnome.org/Projects/libsoup |
 | **libsoxr** | 0.1.3-6 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
-| **libspatialindex** | 1.9.3 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
+| **libspatialindex** | 2.0.0 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspdlog** | 1.14.1 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
@@ -1870,9 +1870,9 @@
 | **pcaudiolib-static** | 1.2-2 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
 | **pcre** | 8.45-1 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
 | **pcre-static** | 8.45-1 | Static libraries for pcre | https://www.pcre.org |
-| **pcre2** | 10.43 | Perl 5 compatible regular expression library | https://www.pcre.org |
-| **pcre2-static** | 10.43 | Static libraries for pcre2 | https://www.pcre.org |
-| **pcre2grep** | 10.43 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
+| **pcre2** | 10.44 | Perl 5 compatible regular expression library | https://www.pcre.org |
+| **pcre2-static** | 10.44 | Static libraries for pcre2 | https://www.pcre.org |
+| **pcre2grep** | 10.44 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pdf2djvu** | 0.9.19-5 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
@@ -2185,7 +2185,7 @@
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.9.0 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.9.1 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 0.2.2-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-1 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2479,7 +2479,7 @@
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.285 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.285 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.286 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.3.287 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.285 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
