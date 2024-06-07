@@ -1393,13 +1393,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.29.4",
+    "Version": "3.29.5",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.29.4",
+    "Version": "3.29.5",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -12391,7 +12391,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:04.03.07",
+    "Version": "1:05.00.00",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -14929,31 +14929,31 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },

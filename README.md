@@ -242,8 +242,8 @@
 | **cloudflared** | 2024.6.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240425.095557 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.29.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.29.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.29.5 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.29.5 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.0 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -2075,7 +2075,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:04.03.07 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:05.00.00 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
@@ -2498,11 +2498,11 @@
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.13.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.3.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.3.1 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.3.1 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.3.1 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.3.1 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.3.2 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.3.2 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.3.2 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.3.2 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.3.2 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.24.5 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
