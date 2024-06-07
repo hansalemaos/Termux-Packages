@@ -14359,7 +14359,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "6.0.0",
+    "Version": "6.1.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
