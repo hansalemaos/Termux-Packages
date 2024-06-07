@@ -2749,7 +2749,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "2.3.1",
+    "Version": "2.3.3",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -14785,7 +14785,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.286",
+    "Version": "1.3.287",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15283,7 +15283,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.41",
+    "Version": "0.42",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },

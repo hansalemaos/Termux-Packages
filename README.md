@@ -468,7 +468,7 @@
 | **freeimage-static** | 3.18.0-6 | Static libraries for freeimage | https://freeimage.sourceforge.io |
 | **freetype** | 2.13.2 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.13.2 | Static libraries for freetype | https://www.freetype.org |
-| **frei0r-plugins** | 2.3.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **frei0r-plugins** | 2.3.3 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fribidi** | 1.0.15 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.15 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -2474,7 +2474,7 @@
 | **vttest** | 20240218 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.285 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.3.286 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.3.287 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.285 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
@@ -2557,7 +2557,7 @@
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 0.2.5 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
-| **yosys** | 0.41 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.42 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.1 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.44.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
