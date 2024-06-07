@@ -1719,11 +1719,11 @@
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.7 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
 | **ncspot** | 1.1.1 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
-| **ncurses** | 6.4.20231001-3 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
-| **ncurses-static** | 6.4.20231001-3 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs** | 6.4.20231001-3 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs-static** | 6.4.20231001-3 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-utils** | 6.4.20231001-3 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
+| **ncurses** | 6.4.20231001-4 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
+| **ncurses-static** | 6.4.20231001-4 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs** | 6.4.20231001-4 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs-static** | 6.4.20231001-4 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-utils** | 6.4.20231001-4 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
 | **ndk-multilib** | 26b | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-static** | 26b | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-stubs** | 26b | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
