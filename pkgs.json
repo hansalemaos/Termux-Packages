@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "debianutils",
-    "Version": "5.17",
+    "Version": "5.18",
     "Description": "Small utilities which are used primarily by the installation scripts of Debian packages",
     "Homepage": "https://packages.debian.org/debianutils"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.14.0",
+    "Version": "2.15.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -2755,13 +2755,13 @@
   },
   {
     "Package": "fribidi",
-    "Version": "1.0.14",
+    "Version": "1.0.15",
     "Description": "Implementation of the Unicode Bidirectional Algorithm",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
   {
     "Package": "fribidi-static",
-    "Version": "1.0.14",
+    "Version": "1.0.15",
     "Description": "Static libraries for fribidi",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
@@ -10093,19 +10093,19 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.2-1",
+    "Version": "1.24.3",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.2-1",
+    "Version": "1.24.3",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.2-1",
+    "Version": "1.24.3",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },

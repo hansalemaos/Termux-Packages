@@ -300,7 +300,7 @@
  dcmtk  3.6.7-4  A collection of libraries and applications implementing large parts the DICOM standard  https://dicom.offis.de/dcmtk 
  dcraw  9.28.0-6  Raw digital camera images decoding utility  https://www.dechifro.org/dcraw/ 
  ddrescue  1.28  GNU data recovery tool  https://www.gnu.org/software/ddrescue/ 
- debianutils  5.17  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
+ debianutils  5.18  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
  debootstrap  1.0.134  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  desed  1.2.1  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.2  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
@@ -404,7 +404,7 @@
  fakeroot  1.35  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.35  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  1.0.2  To fastly access files and folders  https://github.com/whjvenyl/fasd 
- fastfetch  2.14.0  A neofetch-like tool for fetching system information and displaying them in a pretty way  https://github.com/fastfetch-cli/fastfetch 
+ fastfetch  2.15.0  A neofetch-like tool for fetching system information and displaying them in a pretty way  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
  fatsort  1.6.5.640  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
  faust  2.70.3  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
@@ -457,8 +457,8 @@
  freetype  2.13.2  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.13.2  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.3.1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fribidi  1.0.14  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
- fribidi-static  1.0.14  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
+ fribidi  1.0.15  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
+ fribidi-static  1.0.15  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-3  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
  frotz  2.54-1  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
@@ -1680,9 +1680,9 @@
  mu  1.12.5  Maildir indexer/searcher and Emacs client (mu4e)  https://www.djcbsoftware.nl/code/mu/ 
  muchsync  7  Synchronize notmuch mail across machines  http://www.muchsync.org/ 
  multitail  7.1.2  Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge  http://www.vanheusden.com/multitail/ 
- mupdf  1.24.2-1  Lightweight PDF and XPS viewer (library)  https://mupdf.com/ 
- mupdf-static  1.24.2-1  Static libraries for mupdf  https://mupdf.com/ 
- mupdf-tools  1.24.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
+ mupdf  1.24.3  Lightweight PDF and XPS viewer (library)  https://mupdf.com/ 
+ mupdf-static  1.24.3  Static libraries for mupdf  https://mupdf.com/ 
+ mupdf-tools  1.24.3  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-2  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.2.13  Mail client with patches from neomutt  http://www.mutt.org/ 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
