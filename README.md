@@ -178,7 +178,7 @@
 | **byacc** | 20240109 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.12 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.29.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
+| **c-ares** | 1.30.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20240317-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20240317-0 | Static libraries for c-toxcore | https://tox.chat |
@@ -2102,7 +2102,7 @@
 | **rp-pppoe** | 4.0 | A PPP-over-Ethernet redirector for pppd | https://dianne.skoll.ca/projects/rp-pppoe/ |
 | **rpm** | 4.18.1 | RPM Package Manager | https://rpm.org/ |
 | **rq** | 1.0.4 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
-| **rsgain** | 3.5 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
+| **rsgain** | 3.5.1 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.4.5 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.3.0 | Utility that provides fast incremental file transfer | https://rsync.samba.org/ |
 | **rtmpdump** | 2.4-6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |

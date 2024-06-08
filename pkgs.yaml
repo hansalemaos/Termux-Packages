@@ -671,7 +671,7 @@
   Description: Tools for working with bzip2 compression
   Homepage: http://www.bzip.org/
 - Package: c-ares
-  Version: 1.29.0
+  Version: 1.30.0
   Description: Library for asynchronous DNS requests (including name resolves)
   Homepage: https://c-ares.haxx.se
 - Package: c-script
@@ -8367,7 +8367,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: "3.5"
+  Version: 3.5.1
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
