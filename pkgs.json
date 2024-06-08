@@ -12997,7 +12997,7 @@
   },
   {
     "Package": "shiori",
-    "Version": "1.6.3",
+    "Version": "1.7.0",
     "Description": "Simple bookmark manager built with Go",
     "Homepage": "https://github.com/go-shiori/shiori"
   },
@@ -14329,7 +14329,7 @@
   },
   {
     "Package": "typstfmt",
-    "Version": "0.2.9",
+    "Version": "0.2.10",
     "Description": "basic formatter for the Typst language",
     "Homepage": "https://github.com/astrale-sharp/typstfmt"
   },

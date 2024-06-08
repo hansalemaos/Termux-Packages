@@ -8663,7 +8663,7 @@
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.6.3
+  Version: 1.7.0
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool
@@ -9551,7 +9551,7 @@
   Description: Language server for Typst
   Homepage: https://github.com/nvarner/typst-lsp
 - Package: typstfmt
-  Version: 0.2.9
+  Version: 0.2.10
   Description: basic formatter for the Typst language
   Homepage: https://github.com/astrale-sharp/typstfmt
 - Package: uchardet

@@ -2176,7 +2176,7 @@
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.8.0 | A shell parser and formatter | https://github.com/mvdan/sh |
-| **shiori** | 1.6.3 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
+| **shiori** | 1.7.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
 | **signify** | 32 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
@@ -2398,7 +2398,7 @@
 | **twolame** | 0.4.0 | The frontend for libtwolame | https://www.twolame.org/ |
 | **typst** | 0.11.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typst-lsp** | 0.13.0 | Language server for Typst | https://github.com/nvarner/typst-lsp |
-| **typstfmt** | 0.2.9 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
+| **typstfmt** | 0.2.10 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **uftrace** | 0.16 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
