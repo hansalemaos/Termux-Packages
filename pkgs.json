@@ -3481,7 +3481,7 @@
   },
   {
     "Package": "google-glog",
-    "Version": "0.7.0",
+    "Version": "0.7.1",
     "Description": "Logging library for C++",
     "Homepage": "https://github.com/google/glog"
   },
@@ -13051,7 +13051,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.1",
+    "Version": "1.9.2",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -13309,7 +13309,7 @@
   },
   {
     "Package": "squid",
-    "Version": "6.9",
+    "Version": "6.10",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
