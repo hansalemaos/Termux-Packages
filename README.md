@@ -259,7 +259,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-27 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-28 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.7.6 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -1525,6 +1525,7 @@
 | **lilypond** | 2.24.3 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
+| **lit** | 3.8.5 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
 | **litespeedtest** | 0.15.0-1 | A simple tool for batch test ss/ssr/v2ray/trojan servers | https://github.com/xxf098/LiteSpeedTest |
 | **littlecms** | 2.16 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.16 | Static libraries for littlecms | http://www.littlecms.com/ |
@@ -1565,6 +1566,8 @@
 | **luajit** | 1:2.1.1716656478-1 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
+| **luvi** | 20240216 | A project in-between luv and luvit. | https://luvit.io |
+| **luvit** | 2.18.1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.15.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |

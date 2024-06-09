@@ -1495,7 +1495,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-27",
+    "Version": "2.4.0-28",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -9090,6 +9090,12 @@
     "Homepage": "https://github.com/yxdunc/lipl"
   },
   {
+    "Package": "lit",
+    "Version": "3.8.5",
+    "Description": "Toolkit for developing, sharing, and running luvit/lua programs and libraries.",
+    "Homepage": "https://luvit.io"
+  },
+  {
     "Package": "litespeedtest",
     "Version": "0.15.0-1",
     "Description": "A simple tool for batch test ss/ssr/v2ray/trojan servers",
@@ -9328,6 +9334,18 @@
     "Version": "1.48.0-2-0",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
+  },
+  {
+    "Package": "luvi",
+    "Version": "20240216",
+    "Description": "A project in-between luv and luvit.",
+    "Homepage": "https://luvit.io"
+  },
+  {
+    "Package": "luvit",
+    "Version": "2.18.1",
+    "Description": "Asynchronous I/O for Lua",
+    "Homepage": "https://luvit.io"
   },
   {
     "Package": "lux",
