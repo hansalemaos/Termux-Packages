@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "ceu-lang",
-    "Version": "2019.07.17-1",
+    "Version": "2019.07.17-2",
     "Description": "The Structured Synchronous Reactive Programming Language Céu",
     "Homepage": "https://github.com/ceu-lang/ceu"
   },
@@ -9277,9 +9277,9 @@
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0",
-    "Description": "Pattern-matching library for Lua 5.3",
-    "Homepage": "http://www.inf.puc-rio.br/~roberto/lpeg"
+    "Version": "1.1.0-2",
+    "Description": "Pattern-matching library for Lua 5.4",
+    "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
     "Package": "lua51",
@@ -9289,7 +9289,7 @@
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-1",
+    "Version": "1.1.0-2",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9300,6 +9300,12 @@
     "Homepage": "https://www.lua.org"
   },
   {
+    "Package": "lua52-lpeg",
+    "Version": "1.1.0-2",
+    "Description": "Pattern-matching library for Lua 5.2",
+    "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
+  },
+  {
     "Package": "lua53",
     "Version": "5.3.6",
     "Description": "Simple, extensible, embeddable programming language",
@@ -9307,7 +9313,7 @@
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-1",
+    "Version": "1.1.0-2",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
