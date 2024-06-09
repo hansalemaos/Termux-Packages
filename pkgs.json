@@ -14785,7 +14785,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.82",
+    "Version": "0.9.83",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -14875,7 +14875,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.90.0",
+    "Version": "1.91.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
