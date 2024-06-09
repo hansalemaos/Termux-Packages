@@ -12331,7 +12331,7 @@
   },
   {
     "Package": "rdrview",
-    "Version": "1:0.1.1",
+    "Version": "1:0.1.2",
     "Description": "Command line tool to extract the main content from a webpage",
     "Homepage": "https://github.com/eafer/rdrview"
   },
