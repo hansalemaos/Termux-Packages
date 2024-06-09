@@ -9841,15 +9841,15 @@
   },
   {
     "Package": "miniupnpc",
-    "Version": "2.2.7",
+    "Version": "2.2.8",
     "Description": "Small UPnP client library and tool to access Internet Gateway Devices",
-    "Homepage": "https://miniupnp.tuxfamily.org/"
+    "Homepage": "http://miniupnp.free.fr/"
   },
   {
     "Package": "miniupnpc-static",
-    "Version": "2.2.7",
+    "Version": "2.2.8",
     "Description": "Static libraries for miniupnpc",
-    "Homepage": "https://miniupnp.tuxfamily.org/"
+    "Homepage": "http://miniupnp.free.fr/"
   },
   {
     "Package": "minizinc",
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.31.0",
+    "Version": "2.32.0",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -13069,7 +13069,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.2",
+    "Version": "1.9.3",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
