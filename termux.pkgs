@@ -533,9 +533,9 @@
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.41.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **glib** | 2.80.2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-bin** | 2.80.2 | Programs for the GLib library | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.80.2 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.80.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-bin** | 2.80.3 | Programs for the GLib library | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.80.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
@@ -827,7 +827,7 @@
 | **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.4 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.4 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 16.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 16.0.0-2 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.191 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -2332,6 +2332,7 @@
 | **texlive-bin** | 20240310-1 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 20240310-1 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20240310-1 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
+| **thrift** | 0.20.0 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-0 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-0 | Static libraries for tidy | http://www.html-tidy.org/ |
 | **tig** | 2.5.10 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |

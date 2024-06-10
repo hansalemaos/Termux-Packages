@@ -2139,15 +2139,15 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: glib
-  Version: 2.80.2
+  Version: 2.80.3
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
-  Version: 2.80.2
+  Version: 2.80.3
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.80.2
+  Version: 2.80.3
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -3315,7 +3315,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 16.0.0-1
+  Version: 16.0.0-2
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -9334,6 +9334,10 @@
   Version: 20240310-1
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
+- Package: thrift
+  Version: 0.20.0
+  Description: Scalable cross-language services framework for IPC/RPC
+  Homepage: https://thrift.apache.org
 - Package: tidy
   Version: 5.9.14-next-0
   Description: A tool to tidy down your HTML code to a clean style
