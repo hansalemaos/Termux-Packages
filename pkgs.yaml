@@ -923,7 +923,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20240425.095557
+  Version: 0.0.20240610.084143
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -2578,6 +2578,10 @@
   Version: 3.15.1
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
+- Package: helm-ls
+  Version: 0.0.17
+  Description: Language server for Helm
+  Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
   Version: 1.49.3
   Description: Conversion tool to create man files

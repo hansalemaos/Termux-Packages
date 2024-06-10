@@ -1387,7 +1387,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20240425.095557",
+    "Version": "0.0.20240610.084143",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -3868,6 +3868,12 @@
     "Version": "3.15.1",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
+  },
+  {
+    "Package": "helm-ls",
+    "Version": "0.0.17",
+    "Description": "Language server for Helm",
+    "Homepage": "https://github.com/mrjosh/helm-ls"
   },
   {
     "Package": "help2man",
