@@ -1616,7 +1616,7 @@
  mdp  1.0.15-2  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  10.1.0-1  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  24.05-1  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- megacmd  1.7.0  Provides non UI access to MEGA services  https://mega.io/ 
+ megacmd  1.7.0-1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.1.20230212  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://megatools.megous.com/ 
  memcached  1.6.28  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8  A logic/functional programming language  https://www.mercurylang.org/ 
@@ -1878,20 +1878,20 @@
  pet  0.8.4  Simple command-line snippet manager  https://github.com/knqyf263/pet 
  pforth  1:2.0.1  Portable Forth in C  http://www.softsynth.com/pforth/ 
  photon-rss  2023.02.02-2  An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy  https://git.sr.ht/~ghost08/photon 
- php  8.3.7  Server-side, HTML-embedded scripting language  https://php.net 
- php-apache  8.3.7  Apache 2.0 Handler module for PHP  https://php.net 
- php-apache-ldap  8.3.7  LDAP module for PHP/Apache  https://php.net 
- php-apache-opcache  8.3.7  OPcache module for PHP/Apache  https://php.net 
- php-apache-pgsql  8.3.7  PostgreSQL modules for PHP/Apache  https://php.net 
- php-apache-sodium  8.3.7  Sodium module for PHP/Apache  https://php.net 
+ php  8.3.8  Server-side, HTML-embedded scripting language  https://php.net 
+ php-apache  8.3.8  Apache 2.0 Handler module for PHP  https://php.net 
+ php-apache-ldap  8.3.8  LDAP module for PHP/Apache  https://php.net 
+ php-apache-opcache  8.3.8  OPcache module for PHP/Apache  https://php.net 
+ php-apache-pgsql  8.3.8  PostgreSQL modules for PHP/Apache  https://php.net 
+ php-apache-sodium  8.3.8  Sodium module for PHP/Apache  https://php.net 
  php-apcu  5.1.23-2  APCu - APC User Cache  http://php.net/apcu 
- php-fpm  8.3.7  FastCGI Process Manager for PHP  https://php.net 
+ php-fpm  8.3.8  FastCGI Process Manager for PHP  https://php.net 
  php-imagick  3.7.0-4  The Imagick PHP extension  https://github.com/Imagick/imagick 
- php-ldap  8.3.7  LDAP module for PHP  https://php.net 
- php-pgsql  8.3.7  PostgreSQL modules for PHP  https://php.net 
+ php-ldap  8.3.8  LDAP module for PHP  https://php.net 
+ php-pgsql  8.3.8  PostgreSQL modules for PHP  https://php.net 
  php-psr  1.2.0-3  PHP extension providing the accepted PSR interfaces  https://github.com/jbboehr/php-psr 
  php-redis  6.0.2-2  PHP extension for interfacing with Redis  https://github.com/phpredis/phpredis 
- php-sodium  8.3.7  Sodium module for PHP  https://php.net 
+ php-sodium  8.3.8  Sodium module for PHP  https://php.net 
  php-zephir-parser  1.6.1  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
  phpmyadmin  5.2.1  A PHP tool for administering MySQL databases  https://www.phpmyadmin.net 
  pianobar  2022.04.01-1  pianobar is a free/open-source, console-based client for the personalized online radio Pandora.  https://6xq.net/pianobar/ 
