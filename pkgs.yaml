@@ -9827,7 +9827,7 @@
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
-  Version: 0.9-1
+  Version: 0.9-2
   Description: Modern, legacy free, simple yet efficient vim-like editor
   Homepage: https://www.brain-dump.org/projects/vis/
 - Package: vitetris

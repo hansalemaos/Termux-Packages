@@ -2467,7 +2467,7 @@
 | **vim-python** | 9.1.0200 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
 | **vim-runtime** | 9.1.0200 | Vi IMproved - Runtime files | https://www.vim.org |
 | **virustotal-cli** | 1.0.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
-| **vis** | 0.9-1 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
+| **vis** | 0.9-2 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.9.0 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
