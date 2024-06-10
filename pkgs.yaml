@@ -6159,7 +6159,7 @@
   Description: Next gen ls command
   Homepage: https://github.com/lsd-rs/lsd
 - Package: lsix
-  Version: 1.8.2
+  Version: "1.9"
   Description: Shows thumbnails in terminal using sixel graphics
   Homepage: https://github.com/hackerb9/lsix
 - Package: lsof
@@ -8103,11 +8103,11 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 11.9.0
+  Version: 11.9.1
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qpdf-static
-  Version: 11.9.0
+  Version: 11.9.1
   Description: Static libraries for qpdf
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -8459,7 +8459,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240603"
+  Version: "20240610"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9291,7 +9291,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.42.3
+  Version: 1.42.4
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq
@@ -9679,7 +9679,7 @@
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
-  Version: 0.19.2
+  Version: 0.19.3
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
