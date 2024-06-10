@@ -11047,7 +11047,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.52.2",
+    "Version": "1.54.0",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.pango.org/"
   },
