@@ -300,7 +300,7 @@
  dcmtk  3.6.7-4  A collection of libraries and applications implementing large parts the DICOM standard  https://dicom.offis.de/dcmtk 
  dcraw  9.28.0-6  Raw digital camera images decoding utility  https://www.dechifro.org/dcraw/ 
  ddrescue  1.28  GNU data recovery tool  https://www.gnu.org/software/ddrescue/ 
- debianutils  5.18  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
+ debianutils  5.19  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
  debootstrap  1.0.134  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  desed  1.2.1  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.2  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
@@ -388,7 +388,7 @@
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.5  Event Notify Test Runner - run arbitrary commands when files change  http://eradman.com/entrproject/ 
  erlang  27.0-1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
- esbuild  0.21.4  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
+ esbuild  0.21.5  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
  espeak  1.51-2  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
  espeak-static  1.51-2  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
  et  6.2.9-1  A remote shell that automatically reconnects without interrupting the session  https://eternalterminal.dev 
@@ -1195,8 +1195,8 @@
  libopencore-amr  0.1.6  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr 
  libopencore-amr-static  0.1.6  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr 
  libopenfec  1.4.2.9  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
- libopenmpt  0.7.7  OpenMPT based module player library and libopenmpt based command-line player  https://lib.openmpt.org/libopenmpt/ 
- libopenmpt-static  0.7.7  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt  0.7.8  OpenMPT based module player library and libopenmpt based command-line player  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt-static  0.7.8  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
  libopus  1.5.2  Reference implementation of the Opus codec  https://www.opus-codec.org/ 
  libopus-static  1.5.2  Static libraries for libopus  https://www.opus-codec.org/ 
  libopusenc  0.2.1-3  High-level API for encoding .opus files  https://github.com/xiph/libopusenc 
@@ -1966,13 +1966,13 @@
  pypy3  7.3.13  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tkinter  7.3.13  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
- python  3.11.9-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
+ python  3.11.9-2  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.46.0.0  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  2.9.0  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.1.3  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-contourpy  1.2.1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  42.0.8  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
- python-ensurepip-wheels  3.11.9-1  Wheels for Python ensurepip  https://python.org/ 
+ python-ensurepip-wheels  3.11.9-2  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.0.3  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.64.2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.7.0  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
@@ -1986,8 +1986,8 @@
  python-pyarrow  16.1.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.3  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
- python-static  3.11.9-1  Static libraries for python  https://python.org/ 
- python-tkinter  3.11.9-1  Tkinter support for Python 3  https://python.org/ 
+ python-static  3.11.9-2  Static libraries for python  https://python.org/ 
+ python-tkinter  3.11.9-2  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-4  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
  python-torch  2.1.2-1  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
  python-torch-static  2.1.2-1  Static libraries for python-torch  https://pytorch.org/ 
@@ -2484,7 +2484,7 @@
  wasmedge-static  0.14.0  Static libraries for wasmedge  https://wasmedge.org/ 
  watchexec  1.22.3  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.7.0  WavPack command-line programs  https://www.wavpack.com/ 
- waypipe  0.9.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
+ waypipe  0.9.1  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-5  Capable calculator  http://w-calc.sourceforge.net 
  wdiff  1.2.2-1  Display word differences between text files  https://www.gnu.org/software/wdiff/ 
  webp-pixbuf-loader  0.2.7  WebM GDK Pixbuf Loader library  https://github.com/aruiz/webp-pixbuf-loader 
@@ -2554,8 +2554,8 @@
  yq  4.44.1  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-0  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
- yuma123  2.13-1  Provides an opensource YANG API in C  https://yuma123.org/ 
- yuma123-static  2.13-1  Static libraries for yuma123  https://yuma123.org/ 
+ yuma123  2.13-2  Provides an opensource YANG API in C  https://yuma123.org/ 
+ yuma123-static  2.13-2  Static libraries for yuma123  https://yuma123.org/ 
  z-push  2.7.3  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
  z3  4.13.0  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
  zbar  0.23.93  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
