@@ -19,7 +19,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: "24.06"
+  Version: 24.06-1
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -323,7 +323,7 @@
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
-  Version: 1:20221229.172126.d813aa6
+  Version: 1:20240608.083822.1ed9031
   Description: Read, parse and set metadata of MPEG-4 and 3gp files
   Homepage: https://github.com/wez/atomicparsley
 - Package: atomvm
@@ -2919,7 +2919,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.57.1
+  Version: 2.58.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4427,15 +4427,15 @@
   Description: Matroska library
   Homepage: https://dl.matroska.org/downloads/libmatroska/
 - Package: libmaxminddb
-  Version: 1.9.1
+  Version: 1.10.0
   Description: MaxMind GeoIP2 database - library and utilities
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-static
-  Version: 1.9.1
+  Version: 1.10.0
   Description: Static libraries for libmaxminddb
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-tools
-  Version: 1.9.1
+  Version: 1.10.0
   Description: A geoip lookup utility for MaxMind DB
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmcrypt
@@ -6063,7 +6063,7 @@
   Description: A command line tool that is similar to watch but has extended functions for commands outputing a number
   Homepage: https://github.com/yxdunc/lipl
 - Package: lit
-  Version: 3.8.5
+  Version: 3.8.5-2
   Description: Toolkit for developing, sharing, and running luvit/lua programs and libraries.
   Homepage: https://luvit.io
 - Package: litespeedtest
@@ -7123,7 +7123,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.4.0
+  Version: 21.5.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9151,7 +9151,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.0.2
+  Version: 3.0.2-1
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
