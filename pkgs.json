@@ -1267,7 +1267,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.48.2",
+    "Version": "2.49.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.7.6",
+    "Version": "2.7.7",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -3793,7 +3793,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -4273,7 +4273,7 @@
   },
   {
     "Package": "ipfs",
-    "Version": "0.28.0",
+    "Version": "0.29.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },

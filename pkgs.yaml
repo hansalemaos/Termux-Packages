@@ -843,7 +843,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.48.2
+  Version: 2.49.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -999,7 +999,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.7.6
+  Version: 2.7.7
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -2527,7 +2527,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.0.0
+  Version: 3.0.1
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -2847,7 +2847,7 @@
   Description: Static libraries for iperf3
   Homepage: https://github.com/esnet/iperf
 - Package: ipfs
-  Version: 0.28.0
+  Version: 0.29.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ipmitool

@@ -209,7 +209,7 @@
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.48.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.49.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -248,7 +248,7 @@
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 2.4.0-28 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.7.6 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.7.7 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.5 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
@@ -630,7 +630,7 @@
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.13 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.0.0 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.0.1 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 8.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 8.5.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 8.5.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -710,7 +710,7 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.17.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.17.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.28.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.29.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.9.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.2.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
