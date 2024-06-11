@@ -76,7 +76,7 @@
 | **arj** | 3.10.22-5 | Open-source version of arj archiver | http://arj.sourceforge.net/ |
 | **artalk** | 2.8.6 | A self-hosted comment system | https://artalk.js.org/ |
 | **asciidoc** | 10.2.0-3 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
-| **asciidoctor** | 2.0.20 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
+| **asciidoctor** | 2.0.23 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 2.4.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
 | **asm-lsp** | 0.6.0-1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
@@ -155,7 +155,7 @@
 | **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
 | **boost-headers** | 1.83.0-1 | Boost header files | https://boost.org |
 | **boost-static** | 1.83.0-1 | Static libraries for boost | https://boost.org |
-| **bore** | 0.5.0 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
+| **bore** | 0.5.1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
 | **borgbackup** | 1.2.8 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.4.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.4.0 | Static libraries for botan3 | https://botan.randombit.net/ |
@@ -609,7 +609,7 @@
 | **gping** | 1.16.1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.8 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 8.5.27-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **grafana** | 11.0.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.43 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.43 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
@@ -2119,8 +2119,8 @@
 | **rubberband-static** | 3.3.0 | Static libraries for rubberband | https://breakfastquay.com/rubberband/ |
 | **rubberband-vamp** | 3.3.0 | Vamp plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
-| **ruby** | 3.2.2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
-| **ruby-ri** | 3.2.2 | Ruby documentation index | https://www.ruby-lang.org/ |
+| **ruby** | 3.3.2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
+| **ruby-ri** | 3.3.2 | Ruby documentation index | https://www.ruby-lang.org/ |
 | **ruff** | 0.4.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
@@ -2504,11 +2504,11 @@
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.13.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.3.2 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.3.2 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.3.2 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.3.2 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.3.2 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.3.2-1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.3.2-1 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.3.2-1 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.3.2-1 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.3.2-1 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.24.5 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
