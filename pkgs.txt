@@ -728,7 +728,7 @@
  jbig2enc-static  2023.01.08-1  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.4.1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.4.1  Static libraries for jcal  http://nongnu.org/jcal 
- jfrog-cli  2.58.1  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.58.2  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.2  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -1637,7 +1637,7 @@
  minidlna  1.3.3-1  A server software with the aim of being fully compliant with DLNA/UPnP-AV clients  https://sourceforge.net/projects/minidlna/ 
  miniflux  2.1.3  A minimalist and opinionated feed reader  https://miniflux.app/ 
  minimodem  0.24-1-0  General-purpose software audio FSK modem  http://www.whence.com/minimodem/ 
- minio  2024.06.06.09.36.42  Multi-Cloud Object Storage  https://min.io/ 
+ minio  2024.06.11.03.13.30  Multi-Cloud Object Storage  https://min.io/ 
  miniserve  0.27.1  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.11-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.2.8  Small UPnP client library and tool to access Internet Gateway Devices  http://miniupnp.free.fr/ 
@@ -2114,7 +2114,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.5.4  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.78.0-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20240610  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
+ rust-analyzer  20240611  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
  rust-bindgen  0.69.4  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.78.0-1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.78.0-1  Rust source code files  https://www.rust-lang.org/ 
@@ -2300,7 +2300,7 @@
  tectonic  0.15.0-1  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20240528  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-6  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  15.4.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  15.4.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.5.1-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 

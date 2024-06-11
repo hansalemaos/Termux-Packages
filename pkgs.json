@@ -4381,7 +4381,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.58.1",
+    "Version": "2.58.2",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -9835,7 +9835,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.06.06.09.36.42",
+    "Version": "2024.06.11.03.13.30",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -12697,7 +12697,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240610",
+    "Version": "20240611",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -13813,7 +13813,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "15.4.0",
+    "Version": "15.4.2",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
