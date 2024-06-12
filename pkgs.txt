@@ -1950,8 +1950,8 @@
  prover9  2009-11A-0  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
  proxychains-ng  4.17  A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies  https://github.com/rofl0r/proxychains-ng 
  psmisc  23.7  Some small useful utilities that use the proc filesystem  https://gitlab.com/psmisc/psmisc 
- ptex  2.4.2  Per-Face Texture Mapping for Production Rendering  https://github.com/wdas/ptex 
- ptex-static  2.4.2  Static libraries for ptex  https://github.com/wdas/ptex 
+ ptex  2.4.3  Per-Face Texture Mapping for Production Rendering  https://github.com/wdas/ptex 
+ ptex-static  2.4.3  Static libraries for ptex  https://github.com/wdas/ptex 
  ptunnel-ng  1.42  Tunnel TCP connections through ICMP.  https://github.com/lnslbrty/ptunnel-ng 
  pulseaudio  17.0-1  A featureful, general-purpose sound server  https://www.freedesktop.org/wiki/Software/PulseAudio 
  pulseaudio-glib  17.0-1  PulseAudio GLIB mainloop component  https://www.freedesktop.org/wiki/Software/PulseAudio 
@@ -2324,7 +2324,7 @@
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
  termux-tools  1.42.4  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
- tesseract  5.4.0  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
+ tesseract  5.4.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.8  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.1-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 

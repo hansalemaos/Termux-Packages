@@ -7807,11 +7807,11 @@
   Description: Some small useful utilities that use the proc filesystem
   Homepage: https://gitlab.com/psmisc/psmisc
 - Package: ptex
-  Version: 2.4.2
+  Version: 2.4.3
   Description: Per-Face Texture Mapping for Production Rendering
   Homepage: https://github.com/wdas/ptex
 - Package: ptex-static
-  Version: 2.4.2
+  Version: 2.4.3
   Description: Static libraries for ptex
   Homepage: https://github.com/wdas/ptex
 - Package: ptunnel-ng
@@ -9303,7 +9303,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.4.0
+  Version: 5.4.1
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
