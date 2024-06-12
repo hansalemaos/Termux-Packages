@@ -2275,7 +2275,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 4.4.1
+  Version: 4.5.1
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -2575,7 +2575,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.15.1
+  Version: 3.15.2
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls

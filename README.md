@@ -579,7 +579,7 @@
 | **gnustep-make** | 2.9.2 | The GNUstep makefile package | http://www.gnustep.org |
 | **gnutls** | 3.8.5 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
-| **go-musicfox** | 4.4.1 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
+| **go-musicfox** | 4.5.1 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.9.3 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.80.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
@@ -654,7 +654,7 @@
 | **helix** | 24.03-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.03-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.15.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.15.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.0.17 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-5 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
