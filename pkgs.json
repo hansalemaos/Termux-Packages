@@ -967,7 +967,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.32.2",
+    "Version": "1.33.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1333,7 +1333,7 @@
   },
   {
     "Package": "clblast",
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Description": "Tuned OpenCL BLAS",
     "Homepage": "https://github.com/CNugteren/CLBlast"
   },
@@ -2311,13 +2311,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.0",
+    "Version": "2.8.1",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://abiword.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.0",
+    "Version": "2.8.1",
     "Description": "Static libraries for enchant",
     "Homepage": "https://abiword.github.io/enchant/"
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.86",
+    "Version": "12.87",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2851,13 +2851,13 @@
   },
   {
     "Package": "gap",
-    "Version": "4.13.0",
+    "Version": "4.13.1",
     "Description": "GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory",
     "Homepage": "https://www.gap-system.org/"
   },
   {
     "Package": "gap-packages",
-    "Version": "4.13.0",
+    "Version": "4.13.1",
     "Description": "Packages for gap",
     "Homepage": "https://www.gap-system.org/"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.50.0",
+    "Version": "2.51.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.6.0",
+    "Version": "21.7.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
