@@ -255,7 +255,7 @@
   Description: Open-source version of arj archiver
   Homepage: http://arj.sourceforge.net/
 - Package: artalk
-  Version: 2.8.6
+  Version: 2.8.6-1
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: asciidoc

@@ -385,7 +385,7 @@
   },
   {
     "Package": "artalk",
-    "Version": "2.8.6",
+    "Version": "2.8.6-1",
     "Description": "A self-hosted comment system",
     "Homepage": "https://artalk.js.org/"
   },
