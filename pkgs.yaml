@@ -1603,7 +1603,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.17
+  Version: 0.18.18
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++

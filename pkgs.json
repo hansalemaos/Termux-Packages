@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.18.17",
+    "Version": "0.18.18",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
