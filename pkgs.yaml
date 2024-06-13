@@ -3631,7 +3631,7 @@
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdav1d
-  Version: 1.4.2
+  Version: 1.4.3
   Description: AV1 cross-platform decoder focused on speed and correctness
   Homepage: https://code.videolan.org/videolan/dav1d/
 - Package: libdb
@@ -5871,23 +5871,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.12.7
+  Version: 2.13.0
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.12.7
+  Version: 2.13.0
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.12.7
+  Version: 2.13.0
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.12.7
+  Version: 2.13.0
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.12.7
+  Version: 2.13.0
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
@@ -6163,7 +6163,7 @@
   Description: Next gen ls command
   Homepage: https://github.com/lsd-rs/lsd
 - Package: lsix
-  Version: "1.9"
+  Version: 1.9.1
   Description: Shows thumbnails in terminal using sixel graphics
   Homepage: https://github.com/hackerb9/lsix
 - Package: lsof
