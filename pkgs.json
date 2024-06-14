@@ -31,7 +31,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "24.06-1",
+    "Version": "24.06-2",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
