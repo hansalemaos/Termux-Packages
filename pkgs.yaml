@@ -171,7 +171,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.9.0
+  Version: 3.9.1
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache2
@@ -1447,7 +1447,7 @@
   Description: Terminal tiling window manager
   Homepage: https://github.com/martanne/dvtm
 - Package: dwarves
-  Version: "1.26"
+  Version: "1.27"
   Description: Pahole and other DWARF utils
   Homepage: https://git.kernel.org/cgit/devel/pahole/pahole.git/
 - Package: dx
@@ -2403,11 +2403,11 @@
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.43
+  Version: 1.3.43-1
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.43
+  Version: 1.3.43-1
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -2779,11 +2779,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.1.33
+  Version: 7.1.1.33-1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.1.33
+  Version: 7.1.1.33-1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3003,7 +3003,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.28.0
+  Version: 1.29.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3295,11 +3295,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.9.0
+  Version: 3.9.1
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.9.0
+  Version: 3.9.1
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -9311,7 +9311,7 @@
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
-  Version: 3.0.8
+  Version: 3.0.9
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
@@ -10311,7 +10311,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.30-1
+  Version: 0.4.31
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

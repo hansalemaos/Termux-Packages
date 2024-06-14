@@ -41,7 +41,7 @@
  ant  1.10.14  Java based build tool like make  https://ant.apache.org/ 
  antibody  6.1.1-2  The fastest shell plugin manager  https://github.com/getantibody/antibody 
  antiword  0.37-3  A free MS Word reader  https://en.m.wikipedia.org/wiki/Antiword 
- aom-tools  3.9.0  Command-line tools using AOMedia library  https://aomedia.org/ 
+ aom-tools  3.9.1  Command-line tools using AOMedia library  https://aomedia.org/ 
  apache2  1:2.4.59  Apache Web Server  https://httpd.apache.org 
  apkeep  0.16.0  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
@@ -360,7 +360,7 @@
  dust  1.0.0-1  A more intuitive version of du in rust  https://github.com/bootandy/dust 
  dvdauthor  0.7.2-2  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
  dvtm  0.15-3  Terminal tiling window manager  https://github.com/martanne/dvtm 
- dwarves  1.26  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
+ dwarves  1.27  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
  dx  1:1.16-7  Command which takes in Java class files and converts them to format executable by Dalvik VM  http://developer.android.com/tools/help/index.html 
  e2fsprogs  1.47.1  EXT 2/3/4 filesystem utilities  https://e2fsprogs.sourceforge.net 
  e2tools  0.1.0  mtools analogue for ext2/3 filesystems  https://github.com/e2tools/e2tools 
@@ -599,8 +599,8 @@
  gradle  1:8.8  Powerful build system for the JVM  https://gradle.org/ 
  grafana  11.0.0  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
- graphicsmagick  1.3.43  Collection of image processing tools  http://www.graphicsmagick.org/ 
- graphicsmagick-static  1.3.43  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
+ graphicsmagick  1.3.43-1  Collection of image processing tools  http://www.graphicsmagick.org/ 
+ graphicsmagick-static  1.3.43-1  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  11.0.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  11.0.0  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
@@ -693,8 +693,8 @@
  id3lib-static  3.8.3-3  Static libraries for id3lib  http://id3lib.sourceforge.net/ 
  id3ted  1.0-3  A comand line id3 tag editor  https://muennich.github.io/id3ted/ 
  id3v2  0.1.12-1  A command line id3v2 tag editor  http://id3v2.sourceforge.net/ 
- imagemagick  7.1.1.33  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.1.33  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.1.33-1  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.1.33-1  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.1.11  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imgflo  0.4.2-7  HTTP image processing server & Flowhub.io compatible runtime  https://github.com/imgflo/imgflo 
  imlib2  1.12.2-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
@@ -749,7 +749,7 @@
  jsoncpp-static  1.9.5-2  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
  jump  0.51.0-3  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
  jupp  3.1jupp41  User friendly full screen text editor  http://www.mirbsd.org/jupp.htm 
- just  1.28.0  A handy way to save and run project-specific commands  https://just.systems 
+ just  1.29.0  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.3  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
  k9s  0.32.4-1  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
@@ -822,8 +822,8 @@
  libandroid-wordexp-static  0.1  Static libraries for libandroid-wordexp  https://man7.org/linux/man-pages/man3/wordexp.3.html 
  libao  1.2.2-7  A cross platform audio library  https://www.xiph.org/ao/ 
  libao-static  1.2.2-7  Static libraries for libao  https://www.xiph.org/ao/ 
- libaom  3.9.0  AV1 Video Codec Library  https://aomedia.org/ 
- libaom-static  3.9.0  Static libraries for libaom  https://aomedia.org/ 
+ libaom  3.9.1  AV1 Video Codec Library  https://aomedia.org/ 
+ libaom-static  3.9.1  Static libraries for libaom  https://aomedia.org/ 
  libapt-pkg-perl  0.1.40-10  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
  libarchive  3.7.4  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.7.4  Static libraries for libarchive  https://www.libarchive.org/ 
@@ -2326,7 +2326,7 @@
  termux-tools  1.42.4  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.4.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
- testssl.sh  3.0.8  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
+ testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.1-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
  texlab  5.16.1  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
@@ -2576,7 +2576,7 @@
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.4-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
- zrok  0.4.30-1  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
+ zrok  0.4.31  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-3  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 
