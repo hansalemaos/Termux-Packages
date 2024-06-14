@@ -1040,8 +1040,8 @@
 | **libimobiledevice-static** | 1.3.0-p20230430-0 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
 | **libimtui** | 1.0.5-1 | An immediate mode text-based user interface library | https://github.com/ggerganov/imtui |
 | **libinih** | 58 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
-| **libiniparser** | 4.2.2 | Offers parsing of ini files from the C level | https://github.com/ndevilla/iniparser |
-| **libiniparser-static** | 4.2.2 | Static libraries for libiniparser | https://github.com/ndevilla/iniparser |
+| **libiniparser** | 4.2.3 | Offers parsing of ini files from the C level | https://github.com/ndevilla/iniparser |
+| **libiniparser-static** | 4.2.3 | Static libraries for libiniparser | https://github.com/ndevilla/iniparser |
 | **libiodbc** | 3.52.16 | Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems | https://www.iodbc.org/ |
 | **libiodbc-static** | 3.52.16 | Static libraries for libiodbc | https://www.iodbc.org/ |
 | **libisl** | 0.26 | Library for manipulating sets and relations of integer points bounded by linear constraints | https://libisl.sourceforge.io/ |
@@ -2301,7 +2301,7 @@
 | **tectonic** | 0.15.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20240528 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 15.4.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 16.0.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |

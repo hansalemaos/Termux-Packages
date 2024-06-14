@@ -4167,11 +4167,11 @@
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
-  Version: 4.2.2
+  Version: 4.2.3
   Description: Offers parsing of ini files from the C level
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiniparser-static
-  Version: 4.2.2
+  Version: 4.2.3
   Description: Static libraries for libiniparser
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiodbc
@@ -9211,7 +9211,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 15.4.2
+  Version: 16.0.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
