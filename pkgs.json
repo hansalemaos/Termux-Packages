@@ -517,7 +517,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.2.0",
+    "Version": "18.3.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.4.3",
+    "Version": "3.4.4",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -9193,7 +9193,7 @@
   },
   {
     "Package": "logo-ls",
-    "Version": "2024.05.26",
+    "Version": "2024.06.04",
     "Description": "Modern ls command with vscode like File Icon and Git Integrations",
     "Homepage": "https://github.com/Yash-Handa/logo-ls"
   },
@@ -13465,7 +13465,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.26.1-1",
+    "Version": "0.26.2",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
