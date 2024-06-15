@@ -8893,7 +8893,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.39",
+    "Version": "1.1.40",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.9.1",
+    "Version": "21.10.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15229,7 +15229,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.39",
+    "Version": "1.1.40",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
