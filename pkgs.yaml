@@ -3015,7 +3015,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.32.4-1
+  Version: 0.32.5
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -4495,7 +4495,7 @@
   Description: Mini zip and unzip based on zlib
   Homepage: https://www.winimage.com/zLibDll/minizip.html
 - Package: libminizip-ng
-  Version: 4.0.6
+  Version: 4.0.7
   Description: A zip manipulation library written in C
   Homepage: https://github.com/zlib-ng/minizip-ng
 - Package: libminizip-static
@@ -7123,7 +7123,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.10.0
+  Version: 21.10.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
