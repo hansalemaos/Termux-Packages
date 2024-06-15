@@ -110,7 +110,7 @@
 | **bastet** | 0.43.2-10 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.24.0-2 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.07.1-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
-| **bc-gh** | 6.7.5 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
+| **bc-gh** | 6.7.6 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bdsup2sub** | 4.0.1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
 | **bed** | 0.2.5 | Binary editor written in GO | https://github.com/itchyny/bed |
@@ -2048,7 +2048,7 @@
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.10.2 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
-| **rclone** | 1.66.0 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.67.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |

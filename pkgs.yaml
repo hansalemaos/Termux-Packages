@@ -447,7 +447,7 @@
   Description: Arbitrary precision numeric processing language
   Homepage: https://www.gnu.org/software/bc/
 - Package: bc-gh
-  Version: 6.7.5
+  Version: 6.7.6
   Description: Unix dc and POSIX bc with GNU and BSD extensions
   Homepage: https://git.gavinhoward.com/gavin/bc
 - Package: bdsup2sub
@@ -8199,7 +8199,7 @@
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rclone
-  Version: 1.66.0
+  Version: 1.67.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
