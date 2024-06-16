@@ -7123,7 +7123,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.10.1
+  Version: 21.10.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7839,7 +7839,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.8.9
+  Version: 1.8.10
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: http://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -8939,7 +8939,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.1.3
+  Version: 2.1.4
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
@@ -9431,7 +9431,7 @@
   Description: An open world roguelike adventure set in middle earth
   Homepage: https://github.com/tome2/tome2
 - Package: toml11
-  Version: 3.8.1
+  Version: 4.0.0
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade

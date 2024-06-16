@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.10.1",
+    "Version": "21.10.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11761,7 +11761,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.8.9",
+    "Version": "1.8.10",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "http://www.ivarch.com/programs/pv.shtml"
   },
@@ -13411,7 +13411,7 @@
   },
   {
     "Package": "sslscan",
-    "Version": "2.1.3",
+    "Version": "2.1.4",
     "Description": "Utility to discover supported cipher suites on SSL/TLS enabled servers",
     "Homepage": "https://github.com/rbsec/sslscan"
   },
@@ -14149,7 +14149,7 @@
   },
   {
     "Package": "toml11",
-    "Version": "3.8.1",
+    "Version": "4.0.0",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
   },
