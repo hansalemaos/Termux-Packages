@@ -555,7 +555,7 @@
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.0.2
+  Version: 8.0.3
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -10223,7 +10223,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.44.1
+  Version: 4.44.2
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: ytfzf
