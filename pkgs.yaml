@@ -4167,11 +4167,11 @@
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
-  Version: 4.2.3
+  Version: 4.2.4
   Description: Offers parsing of ini files from the C level
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiniparser-static
-  Version: 4.2.3
+  Version: 4.2.4
   Description: Static libraries for libiniparser
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiodbc
