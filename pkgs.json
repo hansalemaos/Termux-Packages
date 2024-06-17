@@ -2959,7 +2959,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.28.0",
+    "Version": "5.29.0",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.10.3",
+    "Version": "21.11.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },

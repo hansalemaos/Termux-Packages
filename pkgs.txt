@@ -491,7 +491,7 @@
  gdbserver  14.2  The gdbserver program  https://www.gnu.org/software/gdb/ 
  gdk-pixbuf  2.42.12  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
- gdu  5.28.0  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
+ gdu  5.29.0  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
  geckodriver  0.34.0  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
  gecode  6.2.0  Generic Constraint Development Environment  https://github.com/Gecode/gecode 
  gecode-static  6.2.0  Static libraries for gecode  https://github.com/Gecode/gecode 
@@ -1779,7 +1779,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  21.10.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  21.11.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.5.1  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-8  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
