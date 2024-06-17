@@ -11616,6 +11616,12 @@
     "Homepage": "https://www.povray.org/"
   },
   {
+    "Package": "predict",
+    "Version": "2.3.1",
+    "Description": "A Satellite Tracking/Orbital Prediction Program",
+    "Homepage": "https://www.qsl.net/kd2bd/predict.html"
+  },
+  {
     "Package": "privoxy",
     "Version": "3.0.34",
     "Description": "Non-caching web proxy with advanced filtering capabilities",
