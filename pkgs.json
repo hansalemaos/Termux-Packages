@@ -775,7 +775,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "27.0",
+    "Version": "27.1",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
@@ -3205,7 +3205,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.41.0",
+    "Version": "1.42.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -9541,7 +9541,7 @@
   },
   {
     "Package": "maven",
-    "Version": "3.9.7",
+    "Version": "3.9.8",
     "Description": "A Java software project management and comprehension tool",
     "Homepage": "https://maven.apache.org/"
   },
@@ -10627,7 +10627,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.65.11",
+    "Version": "2.65.12",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.11.0",
+    "Version": "21.12.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },

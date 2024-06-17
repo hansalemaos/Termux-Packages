@@ -127,7 +127,7 @@
 | **bionic-host** | 8.0.0-r51-2 | bionic libc, libm, libdl and dynamic linker for ubuntu host | https://android.googlesource.com/platform/bionic/ |
 | **bison** | 3.8.2-3 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-3 | Static libraries for bison | https://www.gnu.org/software/bison/ |
-| **bitcoin** | 27.0 | Bitcoin Core | https://bitcoincore.org/ |
+| **bitcoin** | 27.1 | Bitcoin Core | https://bitcoincore.org/ |
 | **bitlbee** | 3.6-1-0 | An IRC to other chat networks gateway | https://www.bitlbee.org/ |
 | **bk** | 0.6.0 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
@@ -532,7 +532,7 @@
 | **gitoxide** | 0.36.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.41.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.42.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **glib** | 2.80.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.80.3 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.80.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1588,7 +1588,7 @@
 | **matterbridge** | 1.26.0-3 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **mautrix-whatsapp** | 0.10.8 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.7 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.9.8 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.0 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
@@ -1769,7 +1769,7 @@
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.65.11 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.65.12 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.11 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.11 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |
@@ -1779,7 +1779,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.11.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.12.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |

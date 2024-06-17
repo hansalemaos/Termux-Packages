@@ -515,7 +515,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "27.0"
+  Version: "27.1"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -2135,7 +2135,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.41.0
+  Version: 1.42.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: glib
@@ -6359,7 +6359,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.7
+  Version: 3.9.8
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -7083,7 +7083,7 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.net/
 - Package: o-editor
-  Version: 2.65.11
+  Version: 2.65.12
   Description: Small, fast and limited text editor
   Homepage: https://github.com/xyproto/o
 - Package: oathtool
@@ -7123,7 +7123,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.11.0
+  Version: 21.12.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
