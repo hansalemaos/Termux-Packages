@@ -7123,7 +7123,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.10.2
+  Version: 21.10.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8471,7 +8471,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240611"
+  Version: "20240617"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -10267,7 +10267,7 @@
   Description: Decentralized websites using Bitcoin crypto and BitTorrent network
   Homepage: https://zeronet.io/
 - Package: zig
-  Version: 0.12.0
+  Version: 0.13.0
   Description: General-purpose programming language and toolchain
   Homepage: https://ziglang.org
 - Package: zile
