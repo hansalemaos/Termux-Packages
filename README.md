@@ -2303,7 +2303,7 @@
 | **tcc** | 1:0.9.27-p20230415-1 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 1.21 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
-| **tcsh** | 6.24.12 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
+| **tcsh** | 6.24.13 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.10 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.17.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
@@ -2313,7 +2313,7 @@
 | **tectonic** | 0.15.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20240528 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 16.0.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 16.0.0-1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |

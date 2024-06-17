@@ -13759,7 +13759,7 @@
   },
   {
     "Package": "tcsh",
-    "Version": "6.24.12",
+    "Version": "6.24.13",
     "Description": "TENEX C Shell, an enhanced version of Berkeley csh",
     "Homepage": "https://www.tcsh.org"
   },
@@ -13819,7 +13819,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.0.0",
+    "Version": "16.0.0-1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
