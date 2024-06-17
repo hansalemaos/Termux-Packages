@@ -2527,7 +2527,7 @@
   },
   {
     "Package": "feroxbuster",
-    "Version": "2.10.3",
+    "Version": "2.10.4",
     "Description": "A fast, simple, recursive content discovery tool written in Rust",
     "Homepage": "https://github.com/epi052/feroxbuster"
   },
@@ -9535,7 +9535,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.10.7",
+    "Version": "0.10.8",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -11821,7 +11821,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.46.0.0",
+    "Version": "3.46.0.1",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://github.com/rogerbinns/apsw/"
   },
