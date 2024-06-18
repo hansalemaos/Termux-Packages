@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.9.32",
+    "Version": "0.10.0",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1393,13 +1393,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.29.5",
+    "Version": "3.29.6",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.29.5",
+    "Version": "3.29.6",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
