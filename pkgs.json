@@ -1351,7 +1351,7 @@
   },
   {
     "Package": "clifm",
-    "Version": "1.18",
+    "Version": "1.19",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.6.0",
+    "Version": "2024.6.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -11491,7 +11491,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.13",
+    "Version": "0.22.14",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13675,13 +13675,13 @@
   },
   {
     "Package": "swtpm",
-    "Version": "0.8.2",
+    "Version": "0.9.0",
     "Description": "Software TPM Emulator",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
   {
     "Package": "swtpm-static",
-    "Version": "0.8.2",
+    "Version": "0.9.0",
     "Description": "Static libraries for swtpm",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },

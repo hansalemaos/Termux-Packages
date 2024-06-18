@@ -899,7 +899,7 @@
   Description: Play Wordle over SSH
   Homepage: https://github.com/ajeetdsouza/clidle
 - Package: clifm
-  Version: "1.18"
+  Version: "1.19"
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -915,7 +915,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2024.6.0
+  Version: 2024.6.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -7659,7 +7659,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.13
+  Version: 0.22.14
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9115,11 +9115,11 @@
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
-  Version: 0.8.2
+  Version: 0.9.0
   Description: Software TPM Emulator
   Homepage: https://github.com/stefanberger/swtpm
 - Package: swtpm-static
-  Version: 0.8.2
+  Version: 0.9.0
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
