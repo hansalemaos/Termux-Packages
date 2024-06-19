@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.15.0",
+    "Version": "2.16.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "hcl",
-    "Version": "2.20.1",
+    "Version": "2.21.0",
     "Description": "A toolkit for creating structured configuration languages",
     "Homepage": "https://github.com/hashicorp/hcl"
   },
@@ -5863,13 +5863,13 @@
   },
   {
     "Package": "libgee",
-    "Version": "0.20.6",
+    "Version": "0.20.6-1",
     "Description": "A collection library providing GObject-based interfaces and classes for commonly used data structures",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
   {
     "Package": "libgee-static",
-    "Version": "0.20.6",
+    "Version": "0.20.6-1",
     "Description": "Static libraries for libgee",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
