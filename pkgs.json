@@ -1237,7 +1237,7 @@
   },
   {
     "Package": "cgif",
-    "Version": "0.4.0",
+    "Version": "0.4.1",
     "Description": "A fast and lightweight GIF encoding library",
     "Homepage": "https://github.com/dloebl/cgif"
   },
@@ -2515,7 +2515,7 @@
   },
   {
     "Package": "fdupes",
-    "Version": "2.3.0-1",
+    "Version": "2.3.1",
     "Description": "Duplicates file detector",
     "Homepage": "https://github.com/adrianlopezroche/fdupes"
   },
@@ -14641,7 +14641,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.5.0",
+    "Version": "3.6.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },

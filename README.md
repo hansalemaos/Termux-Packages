@@ -216,7 +216,7 @@
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
 | **cgal** | 5.6.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
-| **cgif** | 0.4.0 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
+| **cgif** | 0.4.1 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
 | **chafa** | 1.14.0 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
@@ -429,7 +429,7 @@
 | **fdkaac** | 1.0.6 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.7.0-2 | F-Droid client | https://github.com/mvdan/fdroidcl |
-| **fdupes** | 2.3.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
+| **fdupes** | 2.3.1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.4.2 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.10.4 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
 | **fetchmail** | 6.4.38 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
@@ -2450,7 +2450,7 @@
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.17 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.17 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.5.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.6.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
