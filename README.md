@@ -170,7 +170,7 @@
 | **bsd-finger** | 0.17 | User information lookup program | http://ftp.linux.org.uk/pub/linux/Networking/netkit/ |
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.7.4 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
-| **btfs2** | 2.3.5 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
+| **btfs2** | 3.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **buf** | 1.33.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
@@ -287,9 +287,9 @@
 | **ctags** | 2:6.1.0 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-1 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.9 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.10 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.9 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.10 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.8.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.7.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |

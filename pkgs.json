@@ -961,7 +961,7 @@
   },
   {
     "Package": "btfs2",
-    "Version": "2.3.5",
+    "Version": "3.0.0",
     "Description": "Decentralized file system integrating with TRON network and Bittorrent network",
     "Homepage": "https://www.bittorrent.com/btfs/"
   },
@@ -1663,7 +1663,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.9",
+    "Version": "2.4.10",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1675,7 +1675,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.9",
+    "Version": "2.4.10",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
